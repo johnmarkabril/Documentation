@@ -1,0 +1,18 @@
+Reference
+
+Local Lit
+http://serp-p.pids.gov.ph/serp-p/details.php?pid=3922&param=Pasadilla%2C+Gloria 		- E-commerce in the Philippines: a Preliminary Stocktaking
+http://serp-p.pids.gov.ph/serp-p/details.php?pid=3843&param=e-commerce 				- Employment Impact of Business-to-Consumer E-commerce on Philippine Workers
+
+Foreign Lit
+https://books.google.com.ph/books/about/Internet_Marketing.html?id=HcoRl2EZXiwC&redir_esc=y 	– Internet Marketing: Strategy, Implementation and Practice
+http://www.emeraldinsight.com/doi/abs/10.1108/14637150410518329 				- "Business development with electronic commerce: refinement and repositioning"
+http://www.emeraldinsight.com/doi/abs/10.1108/EUM0000000006154 					- "Building customer relationships online: The Web site designers’ perspective"
+
+Foreign Stud
+http://iacis.org/iis/2004/KhasawnehLovero.pdf 							- review and analysis of internet traffic and its implications on the root name server architecture
+http://artikel.ubl.ac.id/index.php/icetd/article/view/81 					- Paypal Analysis as e-Payment in the e-Business Development
+http://library.iugaza.edu.ps/thesis/96739.pdf 							- An Improved SMS User Interface System to Support University Services
+
+Local Stud
+http://ijitcs.com/volume%2012_No_2/Philip.pdf 							- iNotified: An SMS and RFID-Based Notification System of Lipa City Colleges, Lipa City.
